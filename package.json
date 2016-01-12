@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ArekSliwa/kanban/issues"
   },
-  "homepage": "https://github.com/ArekSliwa/kanban#readme"
+  "homepage": "https://github.com/ArekSliwa/kanban#readme",
+  "dependencies": {
+    "react": "^0.14.6"
+  }
 }
